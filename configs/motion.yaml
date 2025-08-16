@@ -1,0 +1,11 @@
+thresholds:
+  pxps_walk: 30
+  pxps_run: 90
+  by_class:
+    person:
+      pxps_walk: 28
+      pxps_run: 85
+    bicycle:
+      pxps_walk: 60
+      pxps_run: 140
+use_homography: false

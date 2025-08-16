@@ -3,3 +3,8 @@ opencv-python
 numpy
 filterpy
 deep-sort-realtime
+scikit-learn
+scipy
+pandas
+joblib
+pyyaml
